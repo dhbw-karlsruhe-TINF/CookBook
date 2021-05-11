@@ -1,4 +1,4 @@
-# CookBook
+# CookBook - Template/Example
 
 # DHBW Karlsruhe (Gesehen in ... )
 > https://gist.github.com/rxaviers/7360908
